@@ -12,5 +12,5 @@
 
 # Libraries
 
-`pygame`
+`pygame 2.0.1`
 
